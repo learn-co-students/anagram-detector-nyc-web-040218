@@ -13,9 +13,3 @@ class Anagram
  end
 
 end
-
-
-
-
-# binding.pry
-puts "hello"
